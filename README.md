@@ -12,8 +12,8 @@ Gerenciador de impressora para impressão de etiqueta de uma empresa desenvolvid
 
 | BRANCA | VERMELHA |
 | --- | --- |
-| <img src="https://uploaddeimagens.com.br/images/001/967/517/original/2.png" width="430" height="200" />  | <img src="https://uploaddeimagens.com.br/images/001/967/518/original/3.png" width="430" height="200" />
+| <img src="https://uploaddeimagens.com.br/images/001/967/517/original/2.png" width="420" height="200" />  | <img src="https://uploaddeimagens.com.br/images/001/967/518/original/3.png" width="420" height="200" />
 
 | EXECUTÁVEL |
 | --- |
-| <img src="https://uploaddeimagens.com.br/images/001/967/519/original/4.png" width="430" height="200" />
+| <img src="https://uploaddeimagens.com.br/images/001/967/519/original/4.png" width="420" height="200" />
